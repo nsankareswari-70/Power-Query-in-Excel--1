@@ -31,6 +31,10 @@ We can sort the data in ascending or descending order.
 ## Close and Load in power query
 Once all the editing, data cleaning part is done in power query - click the close and load button. It will bring the data to your excel worksheet.
 
-     
+## Queries and connections - refresh button in Excel
+If the power query established a connection with the source file, the source file updates are reflected in the power query editor.
+Click the Refresh button in the power query editor to see the updates in the source file.
+
+
   
   

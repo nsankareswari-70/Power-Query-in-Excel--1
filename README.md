@@ -18,5 +18,7 @@ From the Home tab - click remove Top rows
   This can be done in 2 ways
   1. select the column / columns to remove - right click and Delete columns.
   2. select the column / columns to remove - From the Home tab click the Remove column button
+
+     
   
   

@@ -8,4 +8,9 @@ Get the csv file and click 'edit' button. It brings you to the power query edito
 
 From the Home tab - click remove Top rows
 - Enter the number of rows you want to remove - Here 50 rows
+
+- From the first row if you see it says country, capital, Area, population ... They seems like a heading.
+- Use First row as headers option from the Home menu
+- Formatting a particular column - I want all the country names in capital letters.
+- 
   

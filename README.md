@@ -29,7 +29,7 @@ User can change the order of the column by pulling and dragging to wherever you 
 ## Sorting the values in a column
 We can sort the data in ascending or descending order.
 ## Close and Load in power query
-Once all the editing data cleaning part is done in power query - click the close and load button. It will bring the data to your excel worksheet.
+Once all the editing, data cleaning part is done in power query - click the close and load button. It will bring the data to your excel worksheet.
 
      
   

@@ -22,6 +22,15 @@ From the Home tab - click remove Top rows
 ## Changing the order of the columns
 User can change the order of the column by pulling and dragging to wherever you want.
 
+## Adding a conditional column in the power query editor
+- In the power query editor - Add column - Conditional column
+- If the population is greater than 500000000 then TOO many people - "Yes" else "No"
+- Now we can sort the population column to see the results
+## Sorting the values in a column
+We can sort the data in ascending or descending order.
+## close and load in power query
+Once all the editing data cleaning part is done in power query - click the close and load button. It will bring the data to your excel worksheet.
+
      
   
   

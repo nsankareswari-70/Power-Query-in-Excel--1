@@ -11,7 +11,7 @@ From the Home tab - click remove Top rows
 ## Use first row as headers
 - From the first row if you see it says country, capital, Area, population ... They seems like a heading.
 - Use First row as headers option from the Home menu
-  ## Format - Upper case for a column
+## Format - Upper case for a column
 - Formatting a particular column - I want all the country names in capital letters.
 - From the Transform menu use format - Then click uppercase to change all the country names in to capital letters.
 ## Removing Unwanted columns

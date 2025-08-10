@@ -28,7 +28,7 @@ User can change the order of the column by pulling and dragging to wherever you 
 - Now we can sort the population column to see the results
 ## Sorting the values in a column
 We can sort the data in ascending or descending order.
-## close and load in power query
+## Close and Load in power query
 Once all the editing data cleaning part is done in power query - click the close and load button. It will bring the data to your excel worksheet.
 
      

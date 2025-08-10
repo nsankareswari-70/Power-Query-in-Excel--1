@@ -19,6 +19,9 @@ From the Home tab - click remove Top rows
   1. select the column / columns to remove - right click and Delete columns.
   2. select the column / columns to remove - From the Home tab click the Remove column button
 
+## Changing the order of the columns
+User can change the order of the column by pulling and dragging to wherever you want.
+
      
   
   

@@ -14,4 +14,9 @@ From the Home tab - click remove Top rows
   ## Format - Upper case for a column
 - Formatting a particular column - I want all the country names in capital letters.
 - From the Transform menu use format - Then click uppercase to change all the country names in to capital letters.
+  ## Removing Unwanted columns
+  This can be done in 2 ways
+  1. select the column / columns to remove - right click and Delete columns.
+  2. select the column / columns to remove - From the Home tab click the Remove column button
+  
   
